@@ -2,6 +2,8 @@
 
 English | [中文](README.zh-CN.md)
 
+![A 3-frame GIF sticker and an SVG illustration made with GPT Image 2.6](assets/cover.jpg)
+
 GPT Image 2.6, which OpenAI released in November 2026, can output animated GIFs (2–16 frames) and SVG vector images directly. This list collects 40 ways these two features could earn money, grouped into six categories. Each entry covers four things: how to make it, where to sell it, what it pays, and the rules you have to follow. Generation settings, post-processing steps and a prompt template are collected at the end.
 
 **Compiled by:** the [apimodels.app](https://apimodels.app) team (we provide GPT Image 2.6 and many other models through one API key). Sources are public platform rules and public reporting, current as of 2026-11-07. Platform rules change, so check the platform's latest terms before you list anything. This is not a promise of income.
