@@ -263,3 +263,4 @@ Parameters: output_format=gif, frame_count=6–8, frame_duration_ms=100–150, a
 - Content is licensed under [CC BY 4.0](LICENSE). Please credit the source when you republish it.
 - If you spot an outdated rule or a price change, or want to add a new idea, Issues and PRs are welcome.
 - To call GPT Image 2.6's GIF and SVG output directly: [apimodels.app/models/gpt-image-2.6-flare](https://apimodels.app/models/gpt-image-2.6-flare). Docs are at [apimodels.app/docs/gpt-image-2-6](https://apimodels.app/docs/gpt-image-2-6).
+- Measured costs per GIF and SVG, the shared production workflow and the products developers can build on top of this list are written up on our blog: [GPT Image 2.6 GIF and SVG: 40 Ways to Make Money](https://apimodels.app/blog/gpt-image-2-6-gif-svg-money-ideas).

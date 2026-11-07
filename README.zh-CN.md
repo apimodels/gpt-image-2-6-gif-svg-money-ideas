@@ -263,3 +263,4 @@ Flat illustration on a plain solid [#FF00FF] background. No text. Seamless loop.
 - 内容采用 [CC BY 4.0](LICENSE) 协议,转载请注明出处。
 - 发现规则过时、价格变化或想补充新方向,欢迎提 Issue 或 PR。
 - 想直接调用 GPT Image 2.6 的 GIF 和 SVG:[apimodels.app/models/gpt-image-2.6-flare](https://apimodels.app/models/gpt-image-2.6-flare),文档见 [apimodels.app/docs/gpt-image-2-6](https://apimodels.app/docs/gpt-image-2-6)。
+- 每个 GIF、每张 SVG 的实测花费,共用的生产流程,以及开发者能在这份清单上直接做的几类产品,写在我们的博客里:[GPT Image 2.6 的 GIF 和 SVG 功能带来的 40 个赚钱机会](https://apimodels.app/zh/blog/gpt-image-2-6-gif-svg-money-ideas)。
